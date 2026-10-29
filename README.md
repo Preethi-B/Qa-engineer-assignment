@@ -8,7 +8,7 @@ This project tests GitHub pull requests and validates a middleware response usin
 - `schemas/` – Validates response structure and data types.
 - `services/` – Contains pull request filtering and business rules.
 - `tests/` – Contains API and middleware tests.
-- `fixtures/` – Contains sample middleware response data.
+- fixtures/` – Contains sample middleware response data and mock request helper
 
 ## Assumptions
 - Only open, non-draft pull requests are counted.
